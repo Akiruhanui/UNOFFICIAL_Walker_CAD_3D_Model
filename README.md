@@ -1,2 +1,18 @@
 # UNOFFICIAL_Walker_CAD_Model
-An UNOFFICIAL CAD model of a commercial walker/rollator. Made for visual purposes as part of a BMERIT project.
+ **Disclaimer: This walker model is an unofficial recreation of an existing walker. Thus, there may be inaccuracies in the model. It is only intended to be used for visual and educational purposes only.**
+
+ **If you are the company that produces these walkers and would like this repository to be removed, please email me at qasimc4129@gmail.com**
+
+This is a CAD model of a commercially available walker, created for visual purposes as part of a project from an undergraduate engineering student team (BMERIT). The files are available as both STEP and SLDPRT (SolidWorks Education) formats, with an assembly file also available in SLDASM (SolidWorks Education) format. The SLDPRT and SLDASM files have been coloured.
+
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
