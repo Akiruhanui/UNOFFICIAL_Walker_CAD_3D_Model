@@ -3,7 +3,7 @@
 
  **If you are the company that produces these walkers and would like this repository to be removed, please email me at qasimc4129@gmail.com**
 
-This is a CAD model of a commercially available walker, created for visual purposes as part of a project from an undergraduate engineering student team (BMERIT). The files are available as both STEP and SLDPRT (SolidWorks Education) formats, with an assembly file also available in SLDASM (SolidWorks Education) format. The SLDPRT and SLDASM files have been coloured.
+This is a CAD model of a commercially available walker, created for visual purposes as part of a project from an undergraduate engineering student team (BMERIT). The files are available in STEP format, with an assembled file also available in STEP format and as an OBJ with an MTL file for colouring.
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
