@@ -5,6 +5,8 @@
 
 This is a CAD model of a commercially available walker, created for visual purposes as part of a project from an undergraduate engineering student team (BMERIT). The files are available in STEP format, with an assembled file also available in STEP format and as an OBJ with an MTL file for colouring.
 
+Additionally, a SLDASM (SolidWorks Education) file has been included with the walker assembly. If this is to be used, **you must export the STEP files as SLDPRT files and replace the parts in the assembly**. The mates have been defined in the assembly so that the walker is capable of folding/unfolding.
+
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
