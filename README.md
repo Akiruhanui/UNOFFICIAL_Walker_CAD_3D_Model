@@ -9,7 +9,7 @@ This is a CAD model of a commercially available walker, created for visual purpo
 
 Additionally, a SLDASM (SolidWorks Education) file has been included with the walker assembly. If this is to be used, **you must export the STEP files as SLDPRT files and replace the parts in the assembly**. The mates have been defined in the assembly so that the walker is capable of folding/unfolding.
 
-
+This was possible due to the permission and help of Allah (SWT) and to Alberta Health Services for allowing our team to borrow the walker for our project. Duration of modelling was about 5 days.
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
