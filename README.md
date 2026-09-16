@@ -1,4 +1,4 @@
-# (UNOFFICIAL) CAD Model of a Comercially Available Walker
+# (UNOFFICIAL) CAD Model of a Commercially Available Walker
  **Disclaimer: This walker model is an unofficial recreation of a commercially available walker/rollator. Thus, there may be inaccuracies in the model. It is only intended to be used for visual and educational purposes only.**
 
  **If you are the company that produces these walkers and would like this repository to be removed, please email me at qasimc4129@gmail.com**
