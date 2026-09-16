@@ -3,6 +3,8 @@
 
  **If you are the company that produces these walkers and would like this repository to be removed, please email me at qasimc4129@gmail.com**
 
+** **
+
 ![Walker_CAD_SolidWorks_Screenshot](Images/Walker_CAD_SolidWorks.jpg)
 
 This is a CAD model of a commercially available walker, created for visual purposes as part of a project from an undergraduate engineering student team (BMERIT). The files are available in STEP format, with an assembled file also available in STEP format and as an OBJ with an MTL file for colouring.
