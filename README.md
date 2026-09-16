@@ -12,7 +12,7 @@ Additionally, a SLDASM (SolidWorks Education) file has been included with the wa
 
 This was possible due to the permission and help of Allah (SWT) and to Alberta Health Services for allowing our team to borrow the walker for our project. Duration of modelling was about 5 days.
 
-SolidWorks Screenshot:
+****
 ![Walker_CAD_SolidWorks_Screenshot](Images/Walker_CAD_SolidWorks.jpg)
 
 ** **
