@@ -6,6 +6,7 @@
 ** **
 
 ![Walker_CAD_SolidWorks_Screenshot](Images/Walker_CAD_SolidWorks.jpg)
+![Walker_OBJ Snapshot](Images/Walker_OBJ_Clear_Background.png)
 
 This is a CAD model of a commercially available walker, created for visual purposes as part of a project from an undergraduate engineering student team (BMERIT). The files are available in STEP format, with an assembled file also available in STEP format and as an OBJ with an MTL file for colouring.
 
