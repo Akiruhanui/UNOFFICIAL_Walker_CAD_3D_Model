@@ -1,4 +1,4 @@
-# (UNOFFICIAL) CAD/3D Model of a Commercially Available Walker
+# (UNOFFICIAL) CAD/3D Model of a Commercially Available Walker/Rollator
  **Disclaimer: This walker model is an unofficial recreation of a commercially available walker/rollator. Thus, there may be inaccuracies in the model. It is only intended to be used for visual and educational purposes only.**
 
 ** **
